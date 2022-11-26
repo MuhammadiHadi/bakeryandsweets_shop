@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278607924541",
+    "project_id": "bakeryandsweet-shop",
+    "storage_bucket": "bakeryandsweet-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278607924541:android:0d1c9d3df61d0571820954",
+        "android_client_info": {
+          "package_name": "com.example.bakeryandsweets_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278607924541-orrtl9v53kobr44s2mmba1j52flj2nc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzrKNXZ3MP5JFmk8DFNrQXtRaE2czL3OM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278607924541-orrtl9v53kobr44s2mmba1j52flj2nc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
